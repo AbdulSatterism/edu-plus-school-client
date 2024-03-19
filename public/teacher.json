@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Md. Abdul Satter",
+        "email": "abdulsatter.ism@gmail.com",
+        "subject": "ICT",
+        "position": "principle & founder",
+        "status": "BSc",
+        "graduate": "Manarat International University",
+        "image": "https://i.ibb.co/JCg3DL2/myImage.jpg"
+    },
+    {
+        "name": "John Doe",
+        "email": "john.doe@gmail.com",
+        "subject": "Mathematics",
+        "position": "sub-assistant",
+        "status": "BSc",
+        "graduate": "RU",
+        "image": "https://i.ibb.co/sv6vT5C/cloth5.jpg"
+    },
+    {
+        "name": "Kerina",
+        "email": "john.doe@gmail.com",
+        "subject": "English",
+        "position": "assistant",
+        "status": "BSc",
+        "graduate": "HMSTU",
+        "image": "https://i.ibb.co/9tY2Wr0/portrait-female-teacher-holding-notepad-green-removebg.png"
+    },
+    {
+        "name": "Mr. Jon",
+        "email": "john@gmail.com",
+        "subject": "Bangla",
+        "position": "sub-assistant",
+        "status": "BSc",
+        "graduate": "DU",
+        "image": "https://i.ibb.co/Wsg3rGT/teacher1.jpg"
+    },
+    {
+        "name": "dr. Jeri",
+        "email": "john@gmail.com",
+        "subject": "Health check",
+        "position": "sub-assistant",
+        "status": "BSc",
+        "graduate": "DU",
+        "image": "https://i.ibb.co/BB23Gpk/doctors3.jpg"
+    },
+    {
+        "name": "Abdul Gaffar",
+        "email": "gaffar@gmail.com",
+        "subject": "Social Science",
+        "position": "assistant & co-founder",
+        "status": "BSc",
+        "graduate": "AUST",
+        "image": "https://i.ibb.co/g9wvYWz/gaffar.jpg"
+    },
+    {
+        "name": "Mr. Jon",
+        "email": "john.doe@gmail.com",
+        "subject": "Science",
+        "position": "sub-assistant",
+        "status": "BSc",
+        "graduate": "BUET",
+        "image": "https://i.ibb.co/Wsg3rGT/teacher1.jpg"
+    },
+    {
+        "name": "Millar",
+        "email": "john.doe@gmail.com",
+        "subject": "History",
+        "position": "sub-assistant",
+        "status": "BSc",
+        "graduate": "MIT",
+        "image": "https://i.ibb.co/GWw34n7/teacher2.jpg"
+    },
+    {
+        "name": "Mr. Rahim",
+        "email": "john.doe@gmail.com",
+        "subject": "Islamic Studies",
+        "position": "sub-assistant",
+        "status": "BSc",
+        "graduate": "BUET",
+        "image": "https://i.ibb.co/GWw34n7/teacher2.jpg"
+    }
+]

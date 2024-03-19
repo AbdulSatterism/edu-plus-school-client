@@ -1,0 +1,106 @@
+{
+    "banner": {
+        "id": 19,
+        "title": "Welcome our school",
+        "bannerImg": "https://i.ibb.co/ZXGXbtd/banner.jpg",
+        "details": "The Wisdom Wave school was founded by the Dhaka Mission in 1995. Dhaka Ahsania Mission is a non-profit voluntary organization in Bangladesh."
+    },
+    "aboutUs": {
+        "id": 101,
+        "details": "The Ahsanullah University of Science and Technology (AUST) was founded by the Dhaka Ahsania Mission in 1995. Dhaka Ahsania Mission is a non-profit voluntary organization in Bangladesh. The Mission was established in 1958 by Khan Bahadur Ahsanullah, an outstanding educationist and social reformer of undivided India. With his own vision of a better society, characterized by a wealth of moral and spiritual values of the highest humanism that are universally acclaimed through ages and manifested in every sphere of life social, economic and cultural; and access to education and resources",
+        "mission": "The Ahsanullah University of Science and Technology (AUST) was founded by the Dhaka Ahsania Mission in 1995. Dhaka Ahsania Mission is a non-profit voluntary organization in Bangladesh. The Mission was established in 1958 by Khan Bahadur Ahsanullah, an outstanding educationist and social reformer of undivided India",
+        "vision": "The Ahsanullah University of Science and Technology (AUST) was founded by the Dhaka Ahsania Mission in 1995. Dhaka Ahsania Mission is a non-profit voluntary organization in Bangladesh. The Mission was established in 1958 by Khan Bahadur Ahsanullah, an outstanding educationist and social reformer of undivided India",
+        "image": "https://i.ibb.co/Jj7FHq2/home-Event2.jpg"
+    },
+    "homeEvent": [
+        {
+            "id": 16,
+            "title": "Seminar on 'Economy of Tomorrow: Role of SMEs for Promoting Economy in Bangladesh'",
+            "details": "The Ahsanullah University of Science and Technology (AUST) was founded by the Dhaka Ahsania Mission in 1995. Dhaka Ahsania Mission is a non-profit voluntary organization in Bangladesh. The Mission was established in 1958 by Khan Bahadur Ahsanullah, an outstanding educationist and social reformer of undivided India. With his own vision of a better society, characterized by a wealth of moral and spiritual values of the highest humanism that are universally acclaimed through ages and manifested in every sphere of life social, economic and cultural; and access to education and resources",
+            "date": "2024-03-01",
+            "image": "https://i.ibb.co/R3rs0bw/home-Event1.jpg"
+        },
+        {
+            "id": 15,
+            "title": "Seminar on 'Economy of Tomorrow: Role of SMEs for Promoting Economy in Bangladesh'",
+            "details": "The Ahsanullah University of Science and Technology (AUST) was founded by the Dhaka Ahsania Mission in 1995. Dhaka Ahsania Mission is a non-profit voluntary organization in Bangladesh. The Mission was established in 1958 by Khan Bahadur Ahsanullah, an outstanding educationist and social reformer of undivided India. With his own vision of a better society, characterized by a wealth of moral and spiritual values of the highest humanism that are universally acclaimed through ages and manifested in every sphere of life social, economic and cultural; and access to education and resources",
+            "date": "2024-03-01",
+            "image": "https://i.ibb.co/Jj7FHq2/home-Event2.jpg"
+        }
+    ],
+    "news": [
+        {
+            "id": 1,
+            "title": "Ramadan",
+            "image": "https://i.ibb.co/3TLBdtC/img-2.jpg",
+            "date": "2024-03-01"
+        },
+        {
+            "id": 2,
+            "title": "tour & culture",
+            "image": "https://i.ibb.co/ckj2M4R/img-1.jpg",
+            "date": "2024-03-01"
+        },
+        {
+            "id": 3,
+            "title": "programming event",
+            "image": "https://i.ibb.co/ckj2M4R/img-1.jpg",
+            "date": "2024-03-01"
+        },
+        {
+            "id": 4,
+            "title": "hand writing & culture",
+            "image": "https://i.ibb.co/ckj2M4R/img-1.jpg",
+            "date": "2024-03-01"
+        }
+    ],
+    "upcomingEvents": [
+        {
+            "id": 10,
+            "title": "sports",
+            "date": "2024-03-01",
+            "location": "School Auditorium",
+            "image": "https://i.ibb.co/NTGY2Pj/img-3.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Science Fair",
+            "date": "2024-04-15",
+            "location": "Science Lab",
+            "image": "https://i.ibb.co/sm5NtSt/javier-trueba-i-QPr1-Xk-F5-F0-unsplash.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Science Fair",
+            "date": "2024-04-15",
+            "location": "Science Lab",
+            "image": "https://i.ibb.co/3NRw9y4/img-1.jpg"
+        }
+    ],
+    "notice": [
+        {
+            "id": 22,
+            "title": "Exam",
+            "noticeDetails": "The Mission was established in 1958 by Khan Bahadur Ahsanullah, an outstanding educationist and social reformer of undivided India.",
+            "date": "2024-04-15"
+        },
+        {
+            "id": 222,
+            "title": "holiday",
+            "noticeDetails": "The Mission was established in 1958 by Khan Bahadur Ahsanullah, an outstanding educationist and social reformer of undivided India.",
+            "date": "2024-04-15"
+        },
+        {
+            "id": 221,
+            "title": "Ramadan",
+            "noticeDetails": "The Mission was established in 1958 by Khan Bahadur Ahsanullah, an outstanding educationist and social reformer of undivided India.",
+            "date": "2024-04-15"
+        },
+        {
+            "id": 223,
+            "title": "Eid",
+            "noticeDetails": "The Mission was established in 1958 by Khan Bahadur Ahsanullah, an outstanding educationist and social reformer of undivided India. ",
+            "date": "2024-04-15"
+        }
+    ]
+}

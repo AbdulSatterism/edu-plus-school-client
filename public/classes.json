@@ -1,0 +1,386 @@
+[
+    {
+        "class": "one",
+        "totalFee": 6500,
+        "monthlyFee": 550,
+        "admissionFee": 500,
+        "duration": "1 year",
+        "image": "https://i.ibb.co/DpbgpY4/class-1.png",
+        "subjects": [
+            "Bangla",
+            "English",
+            "Math",
+            "Quran for baby"
+        ],
+        "routine": [
+            {
+                "id": 101,
+                "day": "Sunday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm"
+                ]
+            },
+            {
+                "id": 102,
+                "day": "Monday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm"
+                ]
+            },
+            {
+                "id": 103,
+                "day": "Tuesday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm"
+                ]
+            },
+            {
+                "id": 104,
+                "day": "Wednesday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm"
+                ]
+            },
+            {
+                "id": 105,
+                "day": "Thursday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm"
+                ]
+            }
+        ]
+    },
+    {
+        "class": "Two",
+        "totalFee": 7080,
+        "monthlyFee": 590,
+        "admissionFee": 500,
+        "duration": "1 year",
+        "image": "https://i.ibb.co/ctcJHqD/class-5.png",
+        "subjects": [
+            "Bangla",
+            "English",
+            "Math",
+            "Quran for baby"
+        ],
+        "routine": [
+            {
+                "id": 101,
+                "day": "Sunday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm"
+                ]
+            },
+            {
+                "id": 102,
+                "day": "Monday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm"
+                ]
+            },
+            {
+                "id": 103,
+                "day": "Tuesday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm"
+                ]
+            },
+            {
+                "id": 104,
+                "day": "Wednesday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm"
+                ]
+            },
+            {
+                "id": 105,
+                "day": "Thursday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm"
+                ]
+            }
+        ]
+    },
+    {
+        "class": "three",
+        "totalFee": 7800,
+        "monthlyFee": 650,
+        "admissionFee": 500,
+        "duration": "1 year",
+        "image": "https://i.ibb.co/LN9MFKg/class-4.png",
+        "subjects": [
+            "Bangla",
+            "English",
+            "Math",
+            "Science",
+            "Social Science",
+            "Basic History of Islam",
+            "Quran for baby"
+        ],
+        "routine": [
+            {
+                "id": 1015,
+                "day": "Sunday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm",
+                    "2:00 pm - 2:45 pm",
+                    "2:45 pm - 3:15 pm",
+                    "3:15 pm - 4:00 pm"
+                ]
+            },
+            {
+                "id": 1014,
+                "day": "Monday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm",
+                    "2:00 pm - 2:45 pm",
+                    "2:45 pm - 3:15 pm",
+                    "3:15 pm - 4:00 pm"
+                ]
+            },
+            {
+                "id": 1013,
+                "day": "Tuesday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm",
+                    "2:00 pm - 2:45 pm",
+                    "2:45 pm - 3:15 pm",
+                    "3:15 pm - 4:00 pm"
+                ]
+            },
+            {
+                "id": 1012,
+                "day": "Wednesday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm",
+                    "2:00 pm - 2:45 pm",
+                    "2:45 pm - 3:15 pm",
+                    "3:15 pm - 4:00 pm"
+                ]
+            },
+            {
+                "id": 1011,
+                "day": "Thursday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm",
+                    "2:00 pm - 2:45 pm",
+                    "2:45 pm - 3:15 pm",
+                    "3:15 pm - 4:00 pm"
+                ]
+            }
+        ]
+    },
+    {
+        "class": "four",
+        "totalFee": 7800,
+        "monthlyFee": 650,
+        "admissionFee": 500,
+        "duration": "1 year",
+        "image": "https://i.ibb.co/mv1BN5D/class-3.png",
+        "subjects": [
+            "Bangla",
+            "English",
+            "Math",
+            "Science",
+            "Social Science",
+            "Basic History of Islam",
+            "Quran for baby"
+        ],
+        "routine": [
+            {
+                "id": 15,
+                "day": "Sunday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm",
+                    "2:00 pm - 2:45 pm",
+                    "2:45 pm - 3:15 pm",
+                    "3:15 pm - 4:00 pm"
+                ]
+            },
+            {
+                "id": 14,
+                "day": "Monday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm",
+                    "2:00 pm - 2:45 pm",
+                    "2:45 pm - 3:15 pm",
+                    "3:15 pm - 4:00 pm"
+                ]
+            },
+            {
+                "id": 13,
+                "day": "Tuesday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm",
+                    "2:00 pm - 2:45 pm",
+                    "2:45 pm - 3:15 pm",
+                    "3:15 pm - 4:00 pm"
+                ]
+            },
+            {
+                "id": 12,
+                "day": "Wednesday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm",
+                    "2:00 pm - 2:45 pm",
+                    "2:45 pm - 3:15 pm",
+                    "3:15 pm - 4:00 pm"
+                ]
+            },
+            {
+                "id": 11,
+                "day": "Thursday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm",
+                    "2:00 pm - 2:45 pm",
+                    "2:45 pm - 3:15 pm",
+                    "3:15 pm - 4:00 pm"
+                ]
+            }
+        ]
+    },
+    {
+        "class": "five",
+        "totalFee": 8100,
+        "monthlyFee": 675,
+        "admissionFee": 500,
+        "duration": "1 year",
+        "image": "https://i.ibb.co/tXTfC5R/class-2.png",
+        "subjects": [
+            "Bangla",
+            "English",
+            "Math",
+            "Science",
+            "Social Science",
+            "Basic History of Islam",
+            "Quran for baby"
+        ],
+        "routine": [
+            {
+                "id": 10151,
+                "day": "Sunday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm",
+                    "2:00 pm - 2:45 pm",
+                    "2:45 pm - 3:15 pm",
+                    "3:15 pm - 4:00 pm"
+                ]
+            },
+            {
+                "id": 10141,
+                "day": "Monday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm",
+                    "2:00 pm - 2:45 pm",
+                    "2:45 pm - 3:15 pm",
+                    "3:15 pm - 4:00 pm"
+                ]
+            },
+            {
+                "id": 10131,
+                "day": "Tuesday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm",
+                    "2:00 pm - 2:45 pm",
+                    "2:45 pm - 3:15 pm",
+                    "3:15 pm - 4:00 pm"
+                ]
+            },
+            {
+                "id": 10121,
+                "day": "Wednesday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm",
+                    "2:00 pm - 2:45 pm",
+                    "2:45 pm - 3:15 pm",
+                    "3:15 pm - 4:00 pm"
+                ]
+            },
+            {
+                "id": 10111,
+                "day": "Thursday",
+                "timeSchedule": [
+                    "10:00 am - 10:45 am",
+                    "10:45 am - 11:30 am",
+                    "11:30 am - 12:15 pm",
+                    "12:15 pm - 1:00 pm",
+                    "2:00 pm - 2:45 pm",
+                    "2:45 pm - 3:15 pm",
+                    "3:15 pm - 4:00 pm"
+                ]
+            }
+        ]
+    }
+]
