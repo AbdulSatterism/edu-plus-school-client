@@ -68,7 +68,7 @@ const router = createBrowserRouter([
                 element: <PrivateRoute>
                     <Enroll></Enroll>
                 </PrivateRoute>,
-                loader: async ({ params }) => await fetch(`http://localhost:5000/class/${params?.id}`)
+                loader: async ({ params }) => await fetch(`https://edu-plus-school-server.onrender.com/class/${params?.id}`)
             }
 
         ]

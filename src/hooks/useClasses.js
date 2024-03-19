@@ -6,7 +6,7 @@ const useClasses = () => {
     const { data: classes = [], isLoading, refetch } = useQuery({
         queryKey: ['classes'],
         queryFn: async () => {
-            const res = await axios("http://localhost:5000/classes");
+            const res = await axios("https://edu-plus-school-server.onrender.com/classes");
             return res.data;
         }
     });

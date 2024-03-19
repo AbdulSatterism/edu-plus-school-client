@@ -59,7 +59,7 @@ const Enroll = () => {
                         subTotalFees: parseFloat(subTotalFees)
                     }
 
-                    axios.post('http://localhost:5000/students', studentInfo)
+                    axios.post('https://edu-plus-school-server.onrender.com/students', studentInfo)
                         .then(data => {
                             if (data.data?.insertedId) {
                                 reset();

@@ -6,7 +6,7 @@ const useTeachers = () => {
     const { data: teachers = [], isLoading } = useQuery({
         queryKey: ['teachers'],
         queryFn: async () => {
-            const res = await axios('http://localhost:5000/teachers');
+            const res = await axios('https://edu-plus-school-server.onrender.com/teachers');
             return res.data;
         }
     });

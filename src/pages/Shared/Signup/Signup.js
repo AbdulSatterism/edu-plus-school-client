@@ -29,7 +29,7 @@ const Signup = () => {
                     .then(() => {
                         // Profile updated!
                         //save user in database
-                        fetch('http://localhost:5000/users', {
+                        fetch('https://edu-plus-school-server.onrender.com/users', {
                             method: "POST",
                             headers: {
                                 'content-type': 'application/json'
