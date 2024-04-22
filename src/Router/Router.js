@@ -19,6 +19,8 @@ import AllUsers from "../pages/Dashboard/AdminPanel/AllUsers/AllUsers";
 import AdminRoute from "./AdminRoute";
 import AllStudents from "../pages/Dashboard/AdminPanel/AllStudents/AllStudents";
 import PaymentInfo from "../pages/Dashboard/Payment/PaymentInfo";
+import PaymentSuccess from "../pages/Dashboard/Payment/PaymentSuccess";
+import PaymentFail from "../pages/Dashboard/Payment/PaymentFail";
 
 
 
@@ -69,6 +71,16 @@ const router = createBrowserRouter([
                     <Enroll></Enroll>
                 </PrivateRoute>,
                 loader: async ({ params }) => await fetch(`https://edu-plus-school-server.onrender.com/class/${params?.id}`)
+            }
+            ,
+            {
+                path: '/payment/success',
+                element: <PaymentSuccess></PaymentSuccess>
+            }
+            ,
+            {
+                path: '/payment/fail',
+                element: <PaymentFail></PaymentFail>
             }
 
         ]

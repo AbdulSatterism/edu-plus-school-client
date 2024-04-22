@@ -5,7 +5,7 @@ import { FaFacebook, FaTwitter, FaYoutube } from "react-icons/fa";
 
 const Footer = () => {
     return (
-        <div className='mt-16'>
+        <div className='mt-16 print:hidden'>
             <footer className="footer p-12 bg-[#21acb1] text-white">
                 <nav>
                     <h6 className="footer-title">School Info</h6>

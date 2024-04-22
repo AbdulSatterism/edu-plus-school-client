@@ -1,11 +1,27 @@
 import React from 'react';
 import useStudent from '../../../hooks/useStudent';
-import { FaMoneyBillAlt } from 'react-icons/fa';
 import Loading from '../../../component/Loading/Loading';
+import axios from 'axios';
+
 
 const PaymentInfo = () => {
     const [studentCourse, isLoading] = useStudent();
-    const { monthlyFee, admissionFee, subTotalFees } = studentCourse;
+    const { monthlyFee, admissionFee, subTotalFees, _id, email, phone, studentName } = studentCourse;
+
+    const handlePay = () => {
+        const payData = {
+            serviceId: _id,
+            email,
+            subTotalFees,
+            phone,
+            studentName,
+            currency: "BDT"
+        }
+        axios.post('https://edu-plus-school-server.onrender.com/payment', payData)
+            .then(data => {
+                window.location.replace((data.data.url))
+            })
+    }
 
     if (isLoading) {
         return <Loading></Loading>
@@ -18,21 +34,21 @@ const PaymentInfo = () => {
                     <div className="stat-title text-white">You can pay monthly</div>
                     <div className="stat-value text-[#21acb1]">${monthlyFee}</div>
                     <div className="stat-actions">
-                        <button className="btn btn-sm">pay</button>
+                        <button className="btn btn-sm btn-disabled">pay</button>
                     </div>
                 </div>
                 <div className="stat  glass">
                     <div className="stat-title text-white">pay admission fee</div>
                     <div className="stat-value text-[#21acb1]">${admissionFee}</div>
                     <div className="stat-actions">
-                        <button className="btn btn-sm">pay</button>
+                        <button className="btn btn-sm btn-disabled">pay</button>
                     </div>
                 </div>
                 <div className="stat  glass">
                     <div className="stat-title text-white">You can pay sub-total</div>
                     <div className="stat-value text-[#21acb1]">${subTotalFees}</div>
                     <div className="stat-actions">
-                        <button className="btn btn-sm">pay</button>
+                        <button onClick={() => handlePay()} className="btn btn-sm">pay</button>
                     </div>
                 </div>
 
